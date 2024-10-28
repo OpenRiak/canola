@@ -1,6 +1,8 @@
 Canola
 ======
 
+![Canola OpenRiak Status](https://github.com/OpenRiak/canola/actions/workflows/erlang.yml/badge.svg?branch=openriak-3.2)
+
 Canola, a PAM port driver for the GPL intolerant.
 
 Usage
